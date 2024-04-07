@@ -12,3 +12,4 @@ langdetect
 translate
 python-youtube
 youtube_dl
+httpx
